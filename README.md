@@ -9,7 +9,7 @@ We hope that you have installed these elements prior to class, but if not, pleas
 https://aka.ms/ssms/22/release/vs_SSMS.exe
 
 * **SQL Server 2025 Developer Enterprise**
-https://www.microsoft.com/en-us/sql-server/sql-server-downloads?msockid=2aa56919c69361a51bf07ffec7ed6016
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 Once these items are installed if you have not already installed AdventureWorks2020DW please do it now.
 
