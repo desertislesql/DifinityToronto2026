@@ -6,9 +6,11 @@ The easiest way to get all of the content is to click on the green button that s
 ## Prerequisistes
 We hope that you have installed these elements prior to class, but if not, please install them before class starts
 * **SQL Server Managment Studio 2025**
+
 https://aka.ms/ssms/22/release/vs_SSMS.exe
 
 * **SQL Server 2025 Developer Enterprise**
+
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 Once these items are installed if you have not already installed AdventureWorks2020DW please do it now.
@@ -20,10 +22,13 @@ Open up SSMS locally and connect to your SQLServer2025 instance. Right click on 
 
 
 ### Contents
-* Class Exercises 
+##### Class Exercises 
     SQLServerExercises.pdf
-* AdventureWorks2000DW backup
+##### AdventureWorks2000DW backup
     AdventureWorksDW2020.bak
-    
+##### AI tools
+    CaddyServer.exe
+    Caddyfile
+        
 
 Slides will be available at the end of class
