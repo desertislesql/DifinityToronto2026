@@ -17,7 +17,7 @@ Once these items are installed if you have not already installed AdventureWorks2
 
 In the repo you have downloaded, you will find a folder called **Database** There is one file in it called AdventureWorksDW2020.bak
 
-Open up SSMS locally and connect to your SQLServer2025 instance. Right click on restore database
+Open up SSMS locally and connect to your SQLServer2025 instance. Right click on restore database.  The instructions for installing all the items can be found
 
 
 
