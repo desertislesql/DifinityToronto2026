@@ -4,7 +4,9 @@ Hello!  This repo contains the instructions and contents you will need for this 
 The easiest way to get all of the content is to click on the green button that says **Code** and select **Download Zip**
 
 ## Prerequisistes
-We hope that you have installed these elements prior to class, but if not, please install them before class starts
+We hope that you have installed these elements prior to class, but if not, please install them before class starts.
+The instructions for the pre-class instructions can be found  in the document Pre-Class Insturctions.pdf
+
 * **SQL Server Managment Studio 2025**
 
 https://aka.ms/ssms/22/release/vs_SSMS.exe
@@ -23,7 +25,7 @@ Open up SSMS locally and connect to your SQLServer2025 instance. Right click on 
 
 ### Contents
 ##### Class Exercises 
-    SQLServerExercises.pdf
+    SQL Server 2025 Class Exercises.pdf
 ##### AdventureWorks2000DW backup
     AdventureWorksDW2020.bak
 ##### AI tools
